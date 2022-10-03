@@ -31,9 +31,29 @@ li
     font-size: small;
 }
 
+#linkStyle
+{
+    color: crimson;
+    cursor: pointer;
+    text-decoration-line: none;
+}
+
 #titleStyle
 {
     text-align: center;
+    margin-bottom: 1%;
+}
+
+#subtitleStyle
+{
+    text-align: center;
+    font-family: zeitung-mono,sans-serif;
+    font-weight: 100;
+    font-style: italic;
+    font-size: medium;
+    margin-top: 0%;
+    margin-bottom: 4%;
+    text-decoration: underline;
 }
 
 .blogContent
@@ -46,6 +66,7 @@ li
 footer
 {
     flex-shrink: 0;
+    margin-top: 5%;
     padding: 20px;
     text-align: center;
     background-color: lightgray;
