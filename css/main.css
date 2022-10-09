@@ -63,6 +63,28 @@ li
     margin-right: 10%;
 }
 
+.cls-1:hover
+{
+    fill: #000000;
+}
+
+.cls-2:hover
+{
+    fill: #000000;
+}
+
+.cls-3:hover
+{
+    fill: #000000;
+}
+
+.cls-4:hover
+{
+    fill: #000000;
+}
+
+
+
 footer
 {
     flex-shrink: 0;
